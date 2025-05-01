@@ -1,0 +1,40 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233",
+      "location": "123 Maple Street, San Francisco, CA",
+      "price": 850000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1800
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "location": "456 Oak Avenue, Los Angeles, CA",
+      "price": 1200000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "sqft": 2500
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+      "location": "789 Pine Road, Seattle, WA",
+      "price": 750000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1500
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1576941089067-2de3c901e126",
+      "location": "321 Cedar Lane, Portland, OR",
+      "price": 650000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1600
+    }
+  ]
+} 
